@@ -37,5 +37,7 @@ I'm always open to new projects and collaborations. Feel free to reach out if yo
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mbn217)
 ![Profile Views](https://komarev.com/ghpvc/?username=mbn217&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/mbn217?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/mbn217/yourrepository?style=social)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbn217)
+
+
 
