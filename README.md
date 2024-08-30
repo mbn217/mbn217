@@ -36,6 +36,8 @@ I'm always open to new projects and collaborations. Feel free to reach out if yo
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mbn217)
 ![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=mbn217)
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbn217)
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mbn217&style=flat-square)
