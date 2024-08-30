@@ -33,3 +33,5 @@ My journey in tech is driven by my eagerness to learn and my ambition to make a 
 ---
 
 I'm always open to new projects and collaborations. Feel free to reach out if you have an idea or a project in mind!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mbn217)
