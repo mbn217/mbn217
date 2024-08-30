@@ -34,10 +34,7 @@ My journey in tech is driven by my eagerness to learn and my ambition to make a 
 
 I'm always open to new projects and collaborations. Feel free to reach out if you have an idea or a project in mind!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mbn217)
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=mbn217)
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbn217)
-
+![Your Contributions Graph](https://github-contribution-stats.vercel.app/api/?username=mbn217)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mbn217&style=flat-square)
