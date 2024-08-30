@@ -1,6 +1,6 @@
 # Hello, I'm Mohamed Nheri 👋
 
-I'm a **Software Engineer**, with a strong background on Software Testing. 
+I'm a **Software Engineer**, with a strong background in Software Testing. 
 Passionate about development and constantly seeking new challenges. 
 I have practical experience in a variety of technologies and frameworks, making me well-equipped to tackle complex projects.
 My journey in tech is driven by my eagerness to learn and my ambition to make a significant impact through my work.
